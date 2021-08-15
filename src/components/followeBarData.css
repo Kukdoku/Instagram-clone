@@ -1,0 +1,14 @@
+.followerBar__avatar {
+  border: 2px solid red;
+  transition: 0.3s ease;
+}
+.followerBar__avatar:hover {
+  transform: scale(1.09);
+}
+
+.followerBar__follower {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}

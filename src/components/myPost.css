@@ -1,0 +1,15 @@
+.myPost {
+  margin-left: 20vh;
+  margin-right: 10vh;
+}
+
+.myPost__photo {
+  display: flex;
+  flex-wrap: wrap;
+}
+.myPost__photo__image {
+  max-width: 300px;
+
+  position: relative;
+  text-align: center;
+}

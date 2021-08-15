@@ -1,0 +1,14 @@
+.chatHeader {
+  border-bottom: 2px solid black;
+  /* box-shadow: 2px 2px 2px gray; */
+}
+
+.chatHeader__left {
+  padding: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.chatHeader__avatar {
+  border: 2px solid red;
+}

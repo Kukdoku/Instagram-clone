@@ -1,0 +1,53 @@
+.profile__top {
+  display: grid;
+  grid-template-columns: 50% 60%;
+  /* justify-content: center; */
+}
+
+.profile__pic {
+  border-radius: 99px;
+  border: 2px solid red;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 140px;
+  height: auto;
+}
+
+.profile__top {
+  margin-top: 20px;
+}
+
+.profile__button {
+  margin-top: 20px;
+}
+
+.profile__left {
+  margin-left: 10px;
+  display: block;
+}
+
+.profile__button {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.profile__content {
+  display: flex;
+  justify-content: center;
+}
+
+.profile__information {
+  display: flex;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.followButton{
+  margin:0 5px 0 5px;
+  border-radius: 10px;
+  height:30px;
+  cursor: pointer;
+}

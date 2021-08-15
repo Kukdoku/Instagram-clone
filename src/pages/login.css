@@ -1,0 +1,31 @@
+.login__form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login {
+  display: grid;
+  height: 100vh;
+  grid-template-columns: 60% 30%;
+  /* background-color:#75B6C9; */
+}
+
+.login__right {
+  margin-top: 20vh;
+}
+.login__left {
+  margin-left: 30%;
+  margin-top: 7vh;
+}
+
+.login_image {
+   cursor: pointer;
+  height: 80vh;
+  transition: transform 1s ease-in-out;
+  
+}
+
+.login_image:hover {
+  transform: scale(1.1);
+  
+}

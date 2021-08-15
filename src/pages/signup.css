@@ -1,0 +1,35 @@
+.signup {
+  display: grid;
+  height: 100vh;
+  grid-template-columns: 60% 30%;
+}
+
+.signup__form {
+  display: flex;
+  flex-direction: column;
+}
+
+.signup__right {
+  margin-top: 20vh;
+}
+.signup__left {
+  margin-left: 30%;
+  margin-top: 7vh
+}
+
+.signup__input {
+  margin-top: 10px;
+ 
+}
+
+.signup_image {
+   cursor: pointer;
+  height: 80vh;
+  transition: transform 1s ease-in-out;
+  
+}
+
+.signup_image:hover {
+  transform: scale(1.1);
+  
+}

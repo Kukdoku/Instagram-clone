@@ -1,0 +1,9 @@
+*{
+    /* background-color: cornsilk; */
+}
+
+.app{
+    background-color: #f7f7f7;
+    min-height: 100vh;
+    height: 100%;
+}

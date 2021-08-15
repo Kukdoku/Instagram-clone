@@ -1,0 +1,34 @@
+.timeline {
+  margin-top: 5vh;
+}
+
+.timeline__header {
+  display: flex;
+  align-items: center;
+}
+
+.timeline__username {
+  margin-left: 2vh;
+}
+
+.timeline__suggestion {
+  display: grid;
+  grid-template-columns: 70% 30%;
+  align-items: center;
+}
+
+.timeline__suggestion__left {
+  display: flex;
+  align-items: center;
+}
+
+.timeline__suggestion__left__text {
+  margin-left: 1vh;
+  margin-right: 1vh;
+}
+
+
+.timeline__suggestion__left >.MuiAvatar-root{
+  width: 30px;
+  height: 30px
+}

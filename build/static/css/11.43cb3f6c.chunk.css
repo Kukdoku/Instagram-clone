@@ -1,0 +1,2 @@
+.login__form{display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column}.login{display:grid;height:100vh;grid-template-columns:60% 30%}.login__right{margin-top:20vh}.login__left{margin-left:30%;margin-top:7vh}.login_image{cursor:pointer;height:80vh;transition:-webkit-transform 1s ease-in-out;transition:transform 1s ease-in-out;transition:transform 1s ease-in-out,-webkit-transform 1s ease-in-out}.login_image:hover{-webkit-transform:scale(1.1);transform:scale(1.1)}
+/*# sourceMappingURL=11.43cb3f6c.chunk.css.map */

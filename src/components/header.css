@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border-bottom: 1px solid rgb(61, 61, 66);
+  
+  position: sticky;
+  z-index: 100;
+  top:0;
+  background-color: #dbdbdb;
+}
+
+.header__left {
+  display: flex;
+  align-items: center;
+}
+
+.header__right__signin {
+  display: flex;
+  align-items: center;
+}
+
+.header__right__signout {
+  display: flex;
+  align-items: center;
+}
+
+.header__logo {
+  height: 40px;
+  border-radius: 9px;
+}
+
+.header__link {
+  text-decoration: none;
+  color:black;
+}

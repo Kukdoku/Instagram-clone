@@ -1,0 +1,2 @@
+(this.webpackJsonpphotogram=this.webpackJsonpphotogram||[]).push([[14],{260:function(t,n,o){"use strict";o.r(n);o(2);var s=o(6);n.default=function(){return Object(s.jsx)("div",{className:"not-found",children:Object(s.jsx)("h1",{children:"Not Found"})})}}}]);
+//# sourceMappingURL=14.159d73ac.chunk.js.map

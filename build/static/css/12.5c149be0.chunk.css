@@ -1,0 +1,2 @@
+.signup{display:grid;height:100vh;grid-template-columns:60% 30%}.signup__form{display:-webkit-flex;display:flex;-webkit-flex-direction:column;flex-direction:column}.signup__right{margin-top:20vh}.signup__left{margin-left:30%;margin-top:7vh}.signup__input{margin-top:10px}.signup_image{cursor:pointer;height:80vh;transition:-webkit-transform 1s ease-in-out;transition:transform 1s ease-in-out;transition:transform 1s ease-in-out,-webkit-transform 1s ease-in-out}.signup_image:hover{-webkit-transform:scale(1.1);transform:scale(1.1)}
+/*# sourceMappingURL=12.5c149be0.chunk.css.map */

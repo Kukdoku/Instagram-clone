@@ -1,0 +1,25 @@
+.chatShowOk > .MuiAvatar-root {
+  position: relative;
+  top: 10px;
+  border: 1px solid greenyellow;
+  width: 20px;
+  height: 20px;
+}
+
+.chatShow__message {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid gray;
+  max-width: 70%;
+  width: fit-content;
+
+  border-radius: 7px;
+  background-color: azure;
+  margin-left: 10px;
+}
+
+.chatShow {
+  /* border: 1px solid gray; */
+  margin-left: 10px;
+  margin: 10px;
+}

@@ -1,0 +1,30 @@
+.universal {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  /* flex-flow: row;
+  justify-content: space-between;
+  align-items: flex-start; should align items to the top of your flex row if they don't reach 100px in height */
+  /* margin-left: 10px; */
+}
+
+
+
+
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: 0.5s ease;
+}
+
+.universal__image__skelton {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sklton {
+  margin: 10px;
+}
